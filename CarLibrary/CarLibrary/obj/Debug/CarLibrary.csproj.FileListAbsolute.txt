@@ -1,0 +1,6 @@
+D:\вижуал студио\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+D:\вижуал студио\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+D:\вижуал студио\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+D:\вижуал студио\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+D:\вижуал студио\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+D:\вижуал студио\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
